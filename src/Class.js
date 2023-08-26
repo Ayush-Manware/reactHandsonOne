@@ -2,9 +2,6 @@ import React from 'react'
 import './Style.css'
 
 class Xyz extends React.Component{
-    constructor(){
-        super()
-    }
 
     render(){
         return(
