@@ -1,8 +1,5 @@
 import './App.css';
 import './Style.css'
-// import Abc from './Functional.js'
-// import Xyz from './Class.js'
-// impor
 
 import Asdf , {Ayush} from './Body'
 
